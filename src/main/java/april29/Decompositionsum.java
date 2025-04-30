@@ -2,7 +2,7 @@ package april29;
 
 import java.util.Scanner;
 
-public class decompositionsum {
+public class Decompositionsum {
     public static int digit(int N) {
         if (N < 10) {
             return N;
